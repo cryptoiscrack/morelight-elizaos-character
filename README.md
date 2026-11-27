@@ -1,6 +1,7 @@
 # Morelight — ElizaOS Character File
 
-![Bitcoin Obama Podcast banner](banner.jpg)
+<img src="card.png" alt="Morelight — character card" width="340">
+
 
 Morelight (@tickerBITCOINbb), self-styled leader of HarryPotterObamaSonic10Inu ($BITCOIN), whom Bitcoin Obama calls his father.
 
